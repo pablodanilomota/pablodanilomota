@@ -1,7 +1,5 @@
 ### Hello, I'm Pablo Danilo!
-##### 👽 A young developer and technology lover!
-
-<br />
+##### 👽 A young developer and tech lover!
 
 #### 🚀 Follow:
   
