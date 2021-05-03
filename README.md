@@ -16,6 +16,7 @@
     <img
       align="center"
       height="165"
+      width="500"
       src="https://github-readme-stats.vercel.app/api?username=pablodanilomota&count_private=true&show_icons=true&custom_title=Pablo's%20Github%20Stats&hide=issues&theme=dracula"
     />
   </a>
