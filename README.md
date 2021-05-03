@@ -1,5 +1,5 @@
 ### Hello, I'm Pablo Danilo!
-##### 👾 A young developer and technology lover!
+##### 👽 A young developer and technology lover!
 
 <br />
 
@@ -8,6 +8,28 @@
 [![Instagram Follow](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-danilo-mota/)
 [![Instagram Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablo_dm/)
 [![Spotify Follow](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/pablo_danilo)
+
+---
+
+#### 👾 Github stats:
+
+<p>
+  <a href="https://github.com/pablodanilomota/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=pablodanilomota&count_private=true&show_icons=true&custom_title=Pablo's%20Github%20Stats&hide=issues&theme=dracula"
+    />
+  </a>
+  
+  <a href="https://github.com/pablodanilomota/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodanilomota&&layout=compact&theme=dracula&langs_count=8)"
+    />
+  </a>
+</p>
 
 ---
 
@@ -36,28 +58,6 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%23330f63.svg?color=143864&style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
-
-<br />
-
-#### 👾 Github stats:
-
-<p>
-  <a href="https://github.com/pablodanilomota/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=pablodanilomota&count_private=true&show_icons=true&custom_title=Pablo's%20Github%20Stats&hide=issues&theme=dracula"
-    />
-  </a>
-  
-  <a href="https://github.com/pablodanilomota/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodanilomota&&layout=compact&theme=dracula&langs_count=8)"
-    />
-  </a>
-</p>
 
 ---
 
