@@ -16,7 +16,7 @@
     <img
       align="center"
       height="165"
-      width="500"
+      width="400"
       src="https://github-readme-stats.vercel.app/api?username=pablodanilomota&count_private=true&show_icons=true&custom_title=Pablo's%20Github%20Stats&hide=issues&theme=dracula"
     />
   </a>
@@ -24,6 +24,7 @@
     <img
       align="center"
       height="165"
+      width="345"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodanilomota&&layout=compact&theme=dracula&langs_count=8)"
     />
   </a>
