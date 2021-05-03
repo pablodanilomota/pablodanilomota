@@ -37,6 +37,28 @@
 ![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 
+<br />
+
+#### 👾 Github stats:
+
+<p>
+  <a href="https://github.com/pablodanilomota/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=pablodanilomota&count_private=true&show_icons=true&custom_title=Pablo's%20Github%20Stats&hide=issues&theme=dracula"
+    />
+  </a>
+  
+  <a href="https://github.com/pablodanilomota/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodanilomota&&layout=compact&theme=dracula&langs_count=8)"
+    />
+  </a>
+</p>
+
 ---
 
 #### 📕 My latest _posts_ on the company Blog:
