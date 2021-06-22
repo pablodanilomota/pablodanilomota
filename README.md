@@ -12,14 +12,14 @@
 #### 👾 Github stats:
 
 <p>
-<!-- <a href="https://github.com/pablodanilomota/github-readme-stats">
+  <a href="https://github.com/pablodanilomota/github-readme-stats">
     <img
       align="center"
       height="165"
       width="400"
       src="https://github-readme-stats.vercel.app/api?username=pablodanilomota&count_private=true&show_icons=true&custom_title=Pablo's%20Github%20Stats&hide=issues&theme=dracula"
     />
-  </a> -->
+  </a>
   <a href="https://github.com/pablodanilomota/github-readme-stats">
     <img
       align="center"
@@ -65,6 +65,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Promise](http://blog.fw7.com.br/posts/promise/)
 - [Express](http://blog.fw7.com.br/posts/express-node/)
+- [Git & Ferramentas de controle de versão](http://blog.fw7.com.br/posts/git/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more...](http://blog.fw7.com.br/)
