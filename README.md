@@ -57,6 +57,7 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%23330f63.svg?color=143864&style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/nextjs-black?logo=Next.js&logoColor=white&style=for-the-badge)
 
 ---
 
