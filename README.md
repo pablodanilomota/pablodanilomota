@@ -45,6 +45,7 @@
 - [Promise](http://blog.fw7.com.br/posts/promise/)
 - [Express](http://blog.fw7.com.br/posts/express-node/)
 - [Git & Ferramentas de controle de versão](http://blog.fw7.com.br/posts/git/)
+- [[PHP]: Datetime + Format](http://blog.fw7.com.br/posts/date-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more...](http://blog.fw7.com.br/)
