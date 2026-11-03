@@ -18,16 +18,6 @@ Minha experiência inclui modernização de sistemas legados, arquitetura de mic
 
 Atualmente, contribuo para a evolução de uma plataforma de CRM e IA que já ultrapassou [5,5 milhões de conversas atendidas e 500 mil respostas geradas por IA](https://adstart.com.br).
 
-## Artigos que publiquei
-
-- [Promise](http://blog.fw7.com.br/posts/promise/)
-- [Express e Node.js](http://blog.fw7.com.br/posts/express-node/)
-- [Git e ferramentas de controle de versão](http://blog.fw7.com.br/posts/git/)
-- [PHP: DateTime e formatação](http://blog.fw7.com.br/posts/date-time/)
-- [Metodologia ágil](http://blog.fw7.com.br/posts/a-methodology/)
-
-[Ver todos os artigos →](http://blog.fw7.com.br/)
-
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/pablo-danilo-mota/) · [Instagram](https://www.instagram.com/pablo_dm/) · [Spotify](https://open.spotify.com/user/pablo_danilo)
