@@ -1,52 +1,33 @@
-### Hello, I'm Pablo Danilo!
-##### 👽 A young developer and tech lover!
+# Pablo Danilo Mota
 
-#### 🚀 Follow:
-  
-[![Instagram Follow](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-danilo-mota/)
-[![Instagram Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablo_dm/)
-[![Spotify Follow](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/pablo_danilo)
+**Desenvolvedor Fullstack · CRM · Inteligência Artificial**
 
----
+Atuo há mais de sete anos no desenvolvimento e na evolução de plataformas digitais. Hoje, trabalho principalmente com soluções de CRM e inteligência artificial para e-commerce, participando da definição técnica, implementação, integração e evolução dos sistemas em produção.
 
-#### 🛠 Tools and languages that I work and must learn in the company:
+Desenvolvo interfaces, APIs e processos assíncronos com **TypeScript, Node.js, React e Next.js**. Também contribuo para decisões de arquitetura, revisão de código e melhoria dos processos de engenharia. Aplico **TDD, Clean Architecture e Arquitetura Hexagonal** para construir sistemas testáveis e preparados para evoluir.
 
+Minha experiência inclui modernização de sistemas legados, arquitetura de micro front-ends e integrações que processam dados em grande escala.
 
-![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/nextjs-black?logo=Next.js&logoColor=white&style=for-the-badge)
-![Styled Components](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
-![Graphql](https://img.shields.io/badge/graphql-%23e10098.svg?&style=for-the-badge&logo=graphql&logoColor=white)
-![Type Graphql](https://img.shields.io/badge/type_graphql-%232f7bc5.svg?&style=for-the-badge&logo=graphql&logoColor=white)
-![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify%20-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%23330f63.svg?color=143864&style=for-the-badge&logo=bitbucket&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
-![JQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
-![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+## Tecnologias e práticas
 
----
+- **Stack principal:** TypeScript · Node.js · React · Next.js
+- **Outras experiências:** PHP · GraphQL · PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ
+- **Engenharia:** TDD · Clean Architecture · Arquitetura Hexagonal · Micro front-ends
 
-#### 📕 My latest _posts_ on the company Blog:
+## Escala
 
-<!-- BLOG-POST-LIST:START -->
+Atualmente, contribuo para a evolução de uma plataforma de CRM e IA que já ultrapassou [5,5 milhões de conversas atendidas e 500 mil respostas geradas por IA](https://adstart.com.br).
+
+## Artigos que publiquei
+
 - [Promise](http://blog.fw7.com.br/posts/promise/)
-- [Express](http://blog.fw7.com.br/posts/express-node/)
-- [Git & Ferramentas de controle de versão](http://blog.fw7.com.br/posts/git/)
-- [[PHP]: Datetime + Format](http://blog.fw7.com.br/posts/date-time/)
-- [Metodologia Ágil](http://blog.fw7.com.br/posts/a-methodology/)
-<!-- BLOG-POST-LIST:END -->
+- [Express e Node.js](http://blog.fw7.com.br/posts/express-node/)
+- [Git e ferramentas de controle de versão](http://blog.fw7.com.br/posts/git/)
+- [PHP: DateTime e formatação](http://blog.fw7.com.br/posts/date-time/)
+- [Metodologia ágil](http://blog.fw7.com.br/posts/a-methodology/)
 
-➡️ [for more...](http://blog.fw7.com.br/)
+[Ver todos os artigos →](http://blog.fw7.com.br/)
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/pablo-danilo-mota/) · [Instagram](https://www.instagram.com/pablo_dm/) · [Spotify](https://open.spotify.com/user/pablo_danilo)
