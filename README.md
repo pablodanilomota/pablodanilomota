@@ -50,9 +50,3 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [for more...](http://blog.fw7.com.br/)
-
----
-
-#### 💼 Company that I work: 
-
-[![Website](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/fw7-solucoes)
